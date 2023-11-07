@@ -111,7 +111,7 @@
     }
 
     .hero-aria::after {
-        width: 80%;
+        width: 100%;
     }
     .hero-content {
         max-width: 70%;
@@ -274,7 +274,7 @@
     }
 
     .hero-aria::after {
-        width: 70%;
+        width: 100%;
     }
     .hero-content {
         max-width: 65%;
