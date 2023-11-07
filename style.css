@@ -63,7 +63,7 @@ h4,
 h5,
 h6 {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #000;
+    color: #000000;
     font-weight: 600;
     line-height: 1.7;
     margin: 0;
@@ -287,10 +287,10 @@ button:focus {
     content: '';
     left: 0;
     bottom: 0;
-    width: 50%;
+    width: 100%;
     height: 100%;
-    background-color: #ffc900;
-    opacity: .8;
+    background-color: #fff7b0;
+    opacity:0.25;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
     z-index: 2;
 }
